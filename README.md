@@ -1,4 +1,4 @@
-Soccer "Friendly"
+Soccer Friendly
 ===============
 
 ModCloth and GitHub both want to play soccer together. Hooray! :soccer::tada:
